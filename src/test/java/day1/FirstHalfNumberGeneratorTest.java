@@ -2,6 +2,8 @@ package day1;
 
 import org.junit.Test;
 
+import java.lang.reflect.Method;
+
 import static org.junit.Assert.*;
 
 public class FirstHalfNumberGeneratorTest {
@@ -16,7 +18,7 @@ public class FirstHalfNumberGeneratorTest {
     }
     
     
-    private void compareValueWithCalculatedSum(final String numberToCheck, final int expectedValue){
+    private void compareValueWithCalculatedSum(final String numberToCheck, final int expectedValue) throws NoSuchMethodException{
         final FirstHalfNumberGenerator generator = new FirstHalfNumberGenerator(numberToCheck);
         assertEquals(expectedValue, generator.getSum());
     }

@@ -22,7 +22,6 @@ public class FirstHalfNumberGenerator {
     
     public FirstHalfNumberGenerator(final String number) {
         this.number = number;
-        
     }
     
     ///////////////////////////////////////////////////////////////////////////
