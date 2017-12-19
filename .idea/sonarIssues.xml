@@ -48,6 +48,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/day3/FirstHalfNumberFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/day3/SecondHalfNumberFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/day4/PassphraseValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/day5/JumpExitFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/day1/FirstHalfNumberGeneratorTest.java">
           <value>
             <set />
@@ -69,6 +89,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/day2/SecondHalfCheckSumCalculatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/day3/FirstHalfNumberFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/day3/FirstHalfNumberFinderTest.java">
           <value>
             <set />
           </value>
